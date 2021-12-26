@@ -3,10 +3,10 @@ import sys
 
 class Paramiko_Cmd:
     def __init__(self):
-        ip='192.168.38.8'
+        ip='xxx.xxx.xx.x'
         port=22
-        username='jerina'
-        password='jerin123#'
+        username='bob'
+        password='mypasswd'
 
         cmd='nvidia-smi' 
 
